@@ -135,6 +135,8 @@ DREAD evaluates threats across five criteria.
 
 Each criterion is scored from **0 to 10**.
 
+![DREAD Infographic](threat_ranking.png)
+
 ---
 
 # Part 3 – Bug Bar Definition
