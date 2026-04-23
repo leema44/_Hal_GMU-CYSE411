@@ -1,6 +1,6 @@
 name: SAST XSS
 
-on: [workflow_dispatch]
+on: [push]
 
 jobs:
   sast:
